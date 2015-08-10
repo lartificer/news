@@ -5,7 +5,7 @@ This package is a part of the Lartificer project, based on the Laravel Framework
 ## Installation
 The whole project is available as [Packagist Lartificer project](https://packagist.org/packages/lartificer/news) to use with Composer.
 
-To use the news package in your Laravel project, first add it to the `composer.json` in your project's root directory. To enable custom install paths for your Composer packages, it is also necessary to require the [composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer). To seed your dummy database, use [fzaninotto/Faker](https://github.com/fzaninotto/Faker).
+To use the news package in your Laravel project, first add it to the `composer.json` in your project's root directory. To enable custom install paths for your Composer packages, it is also necessary to require the [composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer).
 
 ### Composer
 ```javascript
