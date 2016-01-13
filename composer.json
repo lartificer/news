@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Lartificer\\News\\": "src/workbench"
+            "Lartificer\\News\\": "src/"
         }
     },
     "minimum-stability": "stable"
